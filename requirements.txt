@@ -16,3 +16,4 @@ stevedore==5.1.0
 virtualenv==20.24.5
 virtualenv-clone==0.5.7
 virtualenvwrapper==4.8.4
+django-allauth==0.46.0
